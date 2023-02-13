@@ -1,0 +1,24 @@
+@import url("signup.css");
+
+main section{
+	background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("img/logbg-min.jpg");
+	background-size: 100%;
+	height: 130vh;
+	width: 100%;
+	position: absolute;
+	z-index: -1;
+	opacity: 100%;
+	background-repeat: no-repeat;
+}
+
+.sign .form-box .form h4{
+	font-weight: 200;
+	text-align: center;
+	color: #737373;
+	font-size: 14px;
+}
+
+.sign .form-box .form h4 a{
+	color: #696968;
+	text-decoration: none;
+}

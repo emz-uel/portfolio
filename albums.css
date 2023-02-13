@@ -1,0 +1,20 @@
+@import url("blog.css"); 
+
+main section{
+	background-image: url("img/albumbg.jpg");
+	background-size: 100%;
+	height: 100vh;
+	width: 100%;
+	position: fixed;
+	z-index: -1;
+	opacity: 20%;
+	background-repeat: no-repeat;
+}
+
+main{
+	background: #1E1E1E;
+}
+
+.front-text1 h1{
+	color: white;
+}
